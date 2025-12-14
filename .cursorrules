@@ -1,0 +1,48 @@
+# Cursor Rules for Bookmarks Project
+
+This is a technical reference and documentation repository containing guides, cheatsheets, and bookmarks for software engineering concepts.
+
+## Project Structure
+- Documentation is organized by topic in dedicated directories (databases/, http/, networking/, system-design/)
+- Each topic has a markdown file (.md) and may include supporting images (.jpeg, .png, .gif)
+- The README.md serves as the index/navigation for all topics
+
+## Writing Guidelines
+
+### Markdown Formatting
+- Use clear, descriptive headings with proper hierarchy (## for main sections, ### for subsections)
+- Maintain consistent formatting across all documentation files
+- Use code blocks with appropriate language tags for code examples
+- Include tables when presenting structured information (like HTTP status codes)
+- Use bullet points and numbered lists for clarity
+
+### Content Standards
+- Write clear, concise explanations suitable for quick reference
+- Include practical examples and use cases when relevant
+- Maintain technical accuracy - verify information before adding
+- Keep content focused and scannable (this is a reference guide, not a tutorial)
+- Use proper technical terminology consistently
+
+### File Organization
+- Follow existing naming conventions (kebab-case for markdown files: status-codes.md, system-design.md)
+- Place related images in the same directory as the markdown file
+- Update README.md when adding new topics or sections
+- Keep directory structure flat and organized by topic
+
+### Code Examples
+- Use appropriate syntax highlighting for code blocks
+- Keep examples concise and relevant
+- Include comments in code examples when they add clarity
+- Use real-world, practical examples over abstract ones
+
+## When Adding New Content
+- Create a new directory for the topic if it doesn't exist
+- Add an entry to README.md with a brief description
+- Follow the existing structure and formatting patterns
+- Ensure cross-references and links are accurate
+
+## When Editing Existing Content
+- Maintain consistency with existing style and structure
+- Preserve the reference/cheatsheet nature of the content
+- Update related sections if making significant changes
+- Keep formatting consistent with the rest of the file
