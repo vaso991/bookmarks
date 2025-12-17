@@ -22,5 +22,5 @@ Comprehensive overview of DNS record types including A, AAAA, CNAME, MX, TXT, an
 ### [System Design](./system-design/system-design.md)
 Top 20 system design concepts every engineer should know. Covers load balancing, caching, sharding, CAP theorem, microservices, and more fundamental distributed systems principles.
 
-### [DevOps Tools](./devops/devops.md)
+### [DevOps Tools](./devops/devops-tools.md)
 Essential DevOps tools reference covering Docker, Kubernetes, GitHub Actions, ArgoCD, Prometheus, Grafana, and Nginx. Quick lookup for toolchain components with use cases and a humorous take on each tool's reality.

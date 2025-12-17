@@ -117,8 +117,8 @@ Essential fuel for DevOps engineers.
 │   DEVELOP   │───▶│    BUILD    │───▶│    TEST     │
 │   (Code)    │    │  (Docker)   │    │ (GH Actions)│
 └─────────────┘    └─────────────┘    └─────────────┘
-                                              │
-                                              ▼
+                                             │
+                                             ▼
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
 │   MONITOR   │◀───│   DEPLOY    │◀───│   RELEASE   │
 │ (Prometheus │    │ (ArgoCD/K8s)│    │ (GH Actions)│
@@ -139,3 +139,4 @@ Essential fuel for DevOps engineers.
 | Prometheus | Monitoring | Collect metrics |
 | Grafana | Visualization | Display dashboards |
 | Nginx | Web Server | Serve and proxy traffic |
+
