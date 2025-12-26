@@ -7,6 +7,9 @@ A collection of technical reference guides and cheatsheets for software engineer
 ### [Databases](./databases/databases.md)
 Guide to database selection and types. Learn when to use PostgreSQL, MongoDB, Redis, Cassandra, and other databases, plus an overview of different database types from relational to vector databases.
 
+### [Network Protocols](./http/http-protocols.md)
+Quick reference for essential network protocols: HTTP, HTTP/3/QUIC, HTTPS, WebSocket, TCP, UDP, SMTP, and FTP. Covers transport layers, ports, use cases, and protocol comparisons.
+
 ### [HTTP Status Codes](./http/status-codes.md)
 Complete reference for HTTP status codes (100-599). Quick lookup for information, success, redirect, client error, and server error codes with clear explanations.
 
